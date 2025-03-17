@@ -12,4 +12,4 @@
 - do some editing on the local and push
 - make a change to the remote repository
 - Hello
-- git branch -d branch_banme
+- hi
